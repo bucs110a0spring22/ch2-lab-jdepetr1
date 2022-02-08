@@ -16,6 +16,6 @@ print("Cost per week:", cost_per_week,"\n")
 
 
 #Part B
-randList = ["Chocolate", 493, 12.21, "Wow!", 96]
-randResult = random.choice(randList)
-print("Random choice result:", randResult, type(randResult))
+rand_list = ["Chocolate", 493, 12.21, "Wow!", 96]
+rand_result = random.choice(rand_list)
+print("Random choice result:", rand_result, type(rand_result))
